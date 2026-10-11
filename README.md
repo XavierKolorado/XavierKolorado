@@ -3,10 +3,10 @@
 
 # XavierKolorado
 
-### Web Development Student | Estudante de Desenvolvimento Web
+### 💻 Web Development | Desenvolvimento Web
 
-Building websites, learning new technologies, and improving every day.
-Desenvolvendo sites, aprendendo novas tecnologias e evoluindo todos os dias.
+Building digital experiences, one project at a time.
+Construindo experiências digitais, um projeto de cada vez.
 
 [![GitHub](https://img.shields.io/badge/GitHub-XavierKolorado-181717?style=for-the-badge&logo=github)](https://github.com/XavierKolorado)
 
@@ -14,23 +14,23 @@ Desenvolvendo sites, aprendendo novas tecnologias e evoluindo todos os dias.
 
 ---
 
-## 🇧🇷 Sobre mim | About Me 🇺🇸
+## 👨‍💻 About Me | Sobre Mim
 
-**PT-BR**
+🇧🇷 **Português**
 
-- 🎓 Estudante de Tecnologia da Informação no SENAI.
-- 💻 Estudando lógica de programação e desenvolvimento web.
-- 🌐 Desenvolvendo sites e landing pages.
-- 📚 Aprendendo a trabalhar com APIs e novas tecnologias.
-- 🎯 Focado em evoluir minhas habilidades e criar projetos úteis.
+Sou estudante de Tecnologia da Informação no SENAI e desenvolvedor em formação, sempre buscando aprender algo novo e transformar conhecimento em projetos reais.
 
-**EN**
+Atualmente, trabalho com HTML, CSS e JavaScript na criação de sites e landing pages. Também estudo lógica de programação, consumo de APIs e Python em nível iniciante. Utilizo ferramentas como Git, GitHub, VS Code e Claude para desenvolver projetos e aprimorar minhas habilidades.
 
-- 🎓 Information Technology student at SENAI.
-- 💻 Studying programming logic and web development.
-- 🌐 Building websites and landing pages.
-- 📚 Learning to work with APIs and new technologies.
-- 🎯 Focused on improving my skills and building useful projects.
+Gosto de aprender na prática, explorar novas tecnologias e encontrar soluções para problemas reais. Meu objetivo é continuar evoluindo como desenvolvedor e transformar ideias em experiências digitais funcionais e bem construídas.
+
+🇺🇸 **English**
+
+I'm an Information Technology student at SENAI and an aspiring developer, always looking to learn new things and turn knowledge into real projects.
+
+I currently work with HTML, CSS, and JavaScript to build websites and landing pages. I'm also studying programming logic, API consumption, and Python at a beginner level. I use tools like Git, GitHub, VS Code, and Claude to develop projects and improve my skills.
+
+I enjoy learning by doing, exploring new technologies, and finding solutions to real-world problems. My goal is to keep growing as a developer and turn ideas into functional, well-crafted digital experiences.
 
 ---
 
@@ -41,18 +41,28 @@ Desenvolvendo sites, aprendendo novas tecnologias e evoluindo todos os dias.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 </div>
 
-### 📖 Currently Learning | Estudando Atualmente
+### 📚 Currently Learning | Estudando Atualmente
 
-- API consumption | Consumo de APIs
-- HTTP and JSON
-- Front-end development | Desenvolvimento front-end
 - Programming logic | Lógica de programação
+- API consumption, HTTP and JSON | Consumo de APIs, HTTP e JSON
+- Front-end development | Desenvolvimento front-end
+- Python fundamentals | Fundamentos de Python
+
+---
+
+## 🌎 Languages | Idiomas
+
+- 🇧🇷 **Portuguese:** Native | Nativo
+- 🇺🇸 **English:** Intermediate | Intermediário
+- 🇪🇸 **Spanish:** Intermediate | Intermediário
 
 ---
 
