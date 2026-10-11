@@ -18,9 +18,9 @@ Construindo experiências digitais, um projeto de cada vez.
 
 🇧🇷 **Português**
 
-Sou estudante de Tecnologia da Informação no SENAI e desenvolvedor em formação, sempre buscando aprender algo novo e transformar conhecimento em projetos reais.
+Sou estudante de Tecnologia da Informação no SENAI e desenvolvedor em formação, sempre buscando aprender coisas novas e transformar conhecimento em projetos reais.
 
-Atualmente, trabalho com HTML, CSS e JavaScript na criação de sites e landing pages. Também estudo lógica de programação, consumo de APIs e Python em nível iniciante. Utilizo ferramentas como Git, GitHub, VS Code e Claude para desenvolver projetos e aprimorar minhas habilidades.
+Atualmente, desenvolvo sites e landing pages utilizando HTML, CSS e JavaScript. Também estudo consumo de APIs e Python em nível iniciante. Utilizo ferramentas como Git, GitHub, VS Code e Claude para desenvolver projetos e aprimorar minhas habilidades.
 
 Gosto de aprender na prática, explorar novas tecnologias e encontrar soluções para problemas reais. Meu objetivo é continuar evoluindo como desenvolvedor e transformar ideias em experiências digitais funcionais e bem construídas.
 
@@ -28,7 +28,7 @@ Gosto de aprender na prática, explorar novas tecnologias e encontrar soluções
 
 I'm an Information Technology student at SENAI and an aspiring developer, always looking to learn new things and turn knowledge into real projects.
 
-I currently work with HTML, CSS, and JavaScript to build websites and landing pages. I'm also studying programming logic, API consumption, and Python at a beginner level. I use tools like Git, GitHub, VS Code, and Claude to develop projects and improve my skills.
+I build websites and landing pages using HTML, CSS, and JavaScript. I'm also studying API consumption and Python at a beginner level. I use tools like Git, GitHub, VS Code, and Claude to develop projects and improve my skills.
 
 I enjoy learning by doing, exploring new technologies, and finding solutions to real-world problems. My goal is to keep growing as a developer and turn ideas into functional, well-crafted digital experiences.
 
@@ -49,12 +49,22 @@ I enjoy learning by doing, exploring new technologies, and finding solutions to 
 
 </div>
 
+---
+
+## 🎓 SENAI | Education
+
+### Completed Modules | Módulos Concluídos
+
+- ✅ Programming Logic | Lógica de Programação
+- ✅ UI/UX Fundamentals | Fundamentos de UI/UX
+- ✅ Hardware and Software Architecture | Arquitetura de Hardware e Software
+
 ### 📚 Currently Learning | Estudando Atualmente
 
-- Programming logic | Lógica de programação
-- API consumption, HTTP and JSON | Consumo de APIs, HTTP e JSON
-- Front-end development | Desenvolvimento front-end
-- Python fundamentals | Fundamentos de Python
+- HTML, CSS and JavaScript
+- API consumption, HTTP and JSON
+- Front-end development
+- Python fundamentals
 
 ---
 
