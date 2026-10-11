@@ -58,6 +58,7 @@ I enjoy learning by doing, exploring new technologies, and finding solutions to 
 - ✅ Programming Logic | Lógica de Programação
 - ✅ UI/UX Fundamentals | Fundamentos de UI/UX
 - ✅ Hardware and Software Architecture | Arquitetura de Hardware e Software
+- ✅ Versionamento e Colaboração | Version Control and Collaboration
 
 ### 📚 Currently Learning | Estudando Atualmente
 
